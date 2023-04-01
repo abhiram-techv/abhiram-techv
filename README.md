@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  ![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif){:height="100px" width="100px" style="margin-right: 20px;"}
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70" height="70" style="border-radius: 50%; margin-right: 20px;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, everyone!</h1>
-  ![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif){:height="100px" width="100px" style="margin-left: 20px;"}
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70" height="70" style="border-radius: 50%; margin-left: 20px;">
 </div>
