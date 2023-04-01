@@ -1,5 +1,5 @@
-<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, everyone!</h1>
-
-Welcome to my GitHub profile! I hope you find my projects and repositories interesting and useful. Feel free to explore and don't hesitate to contact me if you have any questions or feedback. 
-
-Happy coding!
+<div style="display: flex; align-items: center;">
+  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen style="margin-right: 20px;"></iframe>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, everyone!</h1>
+  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen style="margin-left: 20px;"></iframe>
+</div>
